@@ -33,7 +33,6 @@ aryan = {
     "focus"      : ["Deep Learning", "Computer Vision", "NLP", "Cybersecurity AI"],
     "currently"  : "Building hybrid ViT-ResNet50 DeepFake Detection (99.33% acc)",
     "patent"     : "Registered Design Patent @ IPO 2025 🏅",
-    
 }
 ```
 
@@ -68,7 +67,7 @@ A **FastAPI**-based system with **BERT-based semantic keyphrase extraction** and
 
 ---
 
-### 🧠[ Brain Tumor Segmentation – Hybrid CNN–Transformer](https://github.com/AryanSh33/Brain-Tumor-Segmentation)
+### 🧠 [Brain Tumor Segmentation – Hybrid CNN–Transformer](https://github.com/AryanSh33/Brain-Tumor-Segmentation)
 > *97% Accuracy · Dice Score 0.94 · HD95 of 1*
 
 Designed a **Swin-UNet** architecture for automated MRI brain tumor segmentation. Applied **Grad-CAM** for visual explainability to support clinical interpretability — because in healthcare, black boxes aren't acceptable.
@@ -137,6 +136,14 @@ Designed a **Swin-UNet** architecture for automated MRI brain tumor segmentation
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aryanmsharma?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/aryanmsharma/)
+
+</div>
+
+### 🏅 Badge Collection
+
+<div align="center">
+
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=aryanmsharma&border=animated&animation=blink&gap=15)](https://leetcode.com/u/aryanmsharma/)
 
 </div>
 
